@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Shamika%20Keshan&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20DevOps%20Engineer&descAlignY=55" width="100%"/>
 
 <a href="https://github.com/keshan-dev">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+systems+that+ship;Shipping+LLM+%2B+RAG+powered+products;Automating+with+Docker+%26+CI%2FCD;SE+Undergrad+%40+NSBM+%2F+Plymouth&font=Fira+Code&size=20&pause=1500&color=22D3EE&center=true&width=650&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+systems+that+ship;Shipping+LLM+%2B+RAG+powered+products;Automating+with+Docker+%26+CI%2FCD;SE+Undergrad+%40+NSBM+%2F+&font=Fira+Code&size=20&pause=1500&color=22D3EE&center=true&width=650&height=40" />
 </a>
 
 <br/>
@@ -19,7 +19,7 @@
 
 ## About Me
 
-- 🎓 Software Engineering undergraduate at **NSBM Green University** (affiliated with **University of Plymouth, UK**)
+- 🎓 Software Engineering undergraduate at **NSBM Green University** 
 - 🚀 Currently leading **TalentIQ** — an AI-powered recruitment platform, and migrating **Silverline** ERP/POS from legacy React to **Next.js 14 App Router**
 - 🎯 Targeting roles in **Full Stack Development**, **AI/ML Engineering**, and **DevOps/Cloud Engineering**
 - 🧠 Background in competitive programming — algorithmic problem solving in Java
