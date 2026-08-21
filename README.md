@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Shamika%20Keshan&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20DevOps%20Engineer&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Shamika%20Keshan&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%2FML%20%7C%20DevOps%20&descAlignY=55" width="100%"/>
 
 <a href="https://github.com/keshan-dev">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+systems+that+ship;Shipping+LLM+%2B+RAG+powered+products;Automating+with+Docker+%26+CI%2FCD;SE+Undergrad+%40+NSBM+%2F+&font=Fira+Code&size=20&pause=1500&color=22D3EE&center=true&width=650&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+systems+that+ship;Shipping+LLM+%2B+RAG+powered+products;Automating+with+Docker+%26+CI%2FCD;SE+Undergrad+%40+NSBM+Green+University&font=Fira+Code&size=20&pause=1500&color=22D3EE&center=true&width=650&height=40" />
 </a>
 
 <br/>
@@ -19,11 +19,10 @@
 
 ## About Me
 
-- 🎓 Software Engineering undergraduate at **NSBM Green University** 
-- 🚀 Currently leading **TalentIQ** — an AI-powered recruitment platform, and migrating **Silverline** ERP/POS from legacy React to **Next.js 14 App Router**
-- 🎯 Targeting roles in **Full Stack Development**, **AI/ML Engineering**, and **DevOps/Cloud Engineering**
-- 🧠 Background in competitive programming — algorithmic problem solving in Java
-- 🌍 Building toward remote-first / overseas AI engineering opportunities
+- 🎓 Software Engineering undergraduate at **NSBM Green University**
+- 🚀 Building **TalentIQ** and modernizing **Silverline** with **Next.js 14**
+- 💡 Focused on **Full Stack**, **AI/ML**, and **Cloud/DevOps** roles
+- 🧠 Competitive programming background with strong Java problem-solving
 
 <br/>
 
@@ -43,7 +42,8 @@
 
 **AI / ML**
 <br/>
-<img src="https://skillicons.dev/icons?i=py,tensorflow" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" />
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" />
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-black?style=flat-square" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
@@ -54,7 +54,9 @@
 
 **Databases & Messaging**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,hibernate" /> &nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" />
+<img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="48" />
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 
 <br/>
