@@ -39,8 +39,7 @@
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs" /> &nbsp;
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,express" />
 
 **AI / ML**
 <br/>
@@ -55,8 +54,7 @@
 
 **Databases & Messaging**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" /> &nbsp;
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,hibernate" /> &nbsp;
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 
 <br/>
