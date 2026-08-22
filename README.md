@@ -124,7 +124,6 @@ Enterprise ERP/POS system — legacy React migrated to **Next.js 14 App Router**
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/keshan-dev/keshan-dev/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<sub>⚙️ This animates automatically once the <code>snake.yml</code> workflow (included below) runs on your repo.</sub>
 
 </div>
 
