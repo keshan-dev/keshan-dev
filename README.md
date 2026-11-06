@@ -72,7 +72,7 @@ Cell-isolated digital banking platform, built for **Duothan 6.0** hackathon with
 
 `TypeScript`
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/agentdynarq/arka)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/keshan-dev/arka)
 
 </td>
 <td width="33%" valign="top">
